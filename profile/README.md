@@ -12,7 +12,17 @@ Quetzal-1 operated succesfully in space from the day of deployment to November 2
 
 ![fully-assembled-satellite-front](https://github.com/Quetzal-1-CubeSat-Team/.github-private/blob/master/profile/media/fully_assembled_satellite_front_compressed.jpg?raw=true "Quetzal-1")
 
+## Where can I learn more about Quetzal-1?
+
 General information on the project is available on [the official site](https://www.uvg.edu.gt/cubesat-en/), including news and scientific publications that have been released throughout the project's lifetime. You can also check out [this live session on Arduino's EDUvision](https://youtu.be/YOHguG6epe4?t=378), where one of our team members speaks about the story behind Quetzal-1, from its inception to the time our satellite spent in space!
+
+### *Esperanza desde el cielo*: A book about Quetzal-1
+
+We also wrote and [published a book about Quetzal-1](https://noticias.uvg.edu.gt/esperanza-cielo-historia-satelite-guatemalteco-uvg/)! It details, from a very human point of view, the journey our team went through, from inception to delivery, and the many triumphs and hardships that took us to that fateful day on the pad in Cape Canaveral, ready to launch to the ISS. It also looks into the operations phase, carried out during the COVID-19 lockdown, and the many obstacles we had to surpass to sucessfully comission and operate our satellite for 211 days. It's a great read, with lots of photos and diagrams to better showcase the team, its history and our satellite. Check it out!
+
+Currently available for purchase in Spanish [here](https://tienda.uvg.edu.gt/index.php?tienda=2&producto=921). For international shipping, please contact the e-mail listed in our profile.
+
+![esperanza_desde_el_cielo_portada_contraportada](https://github.com/Quetzal-1-CubeSat-Team/.github-private/blob/master/profile/media/esperanza_desde_el_cielo_portada_contraportada.png?raw=true "Libro Esperanza desde el cielo")
 
 ## Our purpose
 
