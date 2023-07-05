@@ -34,7 +34,7 @@ Currently available for purchase in Spanish [here](https://tienda.uvg.edu.gt/ind
 
 ## Our purpose
 
-Our purpose is to provide a design reference for a satellite that was fully operational for 211 days in orbit, that it may serve as a stepping stone for future novice teams. Technology is being countinously democratized, and this is our little grain of sand in aim of doing just that: enabling access to space, and its wondrous possibilities, for everyone.
+Our purpose is to provide a design reference for a satellite that was fully operational for 211 days in orbit, that it may serve as a stepping stone for future novice teams. Technology is being continuously democratized, and this is our little grain of sand in aim of doing just that: enabling access to space, and its wondrous possibilities, for everyone.
 
 ## Available Repositories
 
