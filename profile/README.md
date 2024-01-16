@@ -16,13 +16,16 @@ Quetzal-1 operated successfully in space from the day of deployment to November 
 
 General information on the project is available on [the official site](https://www.uvg.edu.gt/cubesat-en/), including news and scientific publications that have been released throughout the project's lifetime. You can also check out [this live session on Arduino's EDUvision](https://youtu.be/YOHguG6epe4?t=378), where one of our team members speaks about the story behind Quetzal-1, from its inception to the time our satellite spent in space!
 
-### Peer-reviewed articles
+### Publications
 
-We recently published [2 peer-reviewed papers in the Journal of Small Satellites (JoSS)](https://jossonline.com/)! In fact, JoSS published its first ever special issue dedicated to Quetzal-1, titled "Guatemala's Pioneering Quetzal-1 Project". This issue also includes a Letter to the Editor, in which the authors highlight the work carried out by approximately 100 students, professors and researchers, with an average age of 21, who participated in the project.
+The Journal of Small Satellites (JoSS) published its first ever special issue dedicated to Quetzal-1, titled "Guatemala's Pioneering Quetzal-1 Project". This issue includes 2 peer-reviewed papers and [a Letter to the Editor](https://jossonline.com/letters/a-joss-special-issue-on-quetzal-1-guatemalas-first-satellite/), in which the authors highlight the work carried out by approximately 100 students, professors and researchers, with an average age of 21, who participated in the project.
+
+Additionally, the Journal of Applied Remote Sensing (JARS) published a peer-reviewed paper on the development and space operations of the multispectral imaging payload on-board Quetzal-1.
 
 Check out the articles here!
 1. [JoSS article on the Electrical Power System (EPS)](https://jossonline.com/storage/2023/05/Final-Aguilar-Nadalini-Design-and-On-Orbit-Performance-of-the-Electrical-Power-System-for-the-Quetzal-1-CubeSat.pdf)
 2. [JoSS article on the Attitude Control and Determination System (ADCS)](https://jossonline.com/storage/2023/05/Final-Alvarez-Design-and-On-Orbit-Performance-of-the-Attitude-Determination-and-Passive-Control-System-for-the-Quetzal-1-CubeSat.pdf)
+3. [JARS article on the satellite's Payload](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-17/issue-04/047501/Academic-development-and-space-operations-of-a-multispectral-imaging-payload/10.1117/1.JRS.17.047501.full#_=_)
 
 ### *Esperanza desde el cielo*: A book about Quetzal-1
 
