@@ -4,6 +4,13 @@
 <img width="300" src="https://github.com/Quetzal-1-CubeSat-Team/.github-private/blob/master/profile/media/quetzal_1_badge.png?raw=true">
 </p>
 
+### 📫 Contact Us!
+
+If the information published here was helpful, we'd love to know! Contact us below and let us know how we can help 🙋‍♀️🙋‍♂️!
+
+1. 💌 **Email us:** [satelite@uvg.edu.gt](mailto:satelite@uvg.edu.gt)
+2. 🐦 **Reach out on X:** [@quetzal1_uvg](https://x.com/quetzal1_uvg)
+
 ## An overview of Quetzal-1
 
 Quetzal-1 was a 1U CubeSat developed by an engineering team from [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/) (UVG). In 2017, this team was announced as the winner of the [KiboCUBE program](https://www.unoosa.org/oosa/en/ourwork/access2space4all/KiboCUBE/KiboCUBE_Index.html) (a collaboration between the [United Nation's Office for Outer Space Affairs](https://www.unoosa.org/), UNOOSA, and the [Japanese Aerospace Exploration Agency](https://global.jaxa.jp/), JAXA), which enabled us to launch the satellite to the International Space Station aboard the SpaceX CRS-20 ISS resupply mission, on March 7th, 2020. From there, the satellite was deployed from JAXA's Kibo module on April 28th of the same year. You can [watch the deployment here](https://youtu.be/7M39SjJJsEc)!
